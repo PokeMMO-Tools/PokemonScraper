@@ -1,0 +1,12 @@
+package de.fiereu.filter
+
+enum class FilterType {
+    GENDER_EGG_PARTICLE,
+    DITTO,
+    GLITCHED_OT,
+    GENDER_EGG_STATS_NATURE,
+    SHINY_GENDER_STATS_NATURE,
+    ALPHA_GENDER_STATS,
+    SECRETSHINY_GENDER_STATS
+    ;
+}

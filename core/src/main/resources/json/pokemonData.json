@@ -1,0 +1,3602 @@
+{
+  "0": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "2": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "3": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "4": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "5": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "6": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "7": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "8": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "9": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "10": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "11": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "12": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "13": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "14": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "15": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "16": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "17": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "18": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "19": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "20": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "21": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "22": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "23": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 14
+  },
+  "24": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 14
+  },
+  "25": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "26": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "27": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "28": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "29": {
+    "gender": 254,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "30": {
+    "gender": 254,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "31": {
+    "gender": 254,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "32": {
+    "gender": 0,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "33": {
+    "gender": 0,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "34": {
+    "gender": 0,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "35": {
+    "gender": 191,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "36": {
+    "gender": 191,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "37": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "38": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "39": {
+    "gender": 191,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "40": {
+    "gender": 191,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "41": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "42": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "43": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "44": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "45": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "46": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 7
+  },
+  "47": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 7
+  },
+  "48": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "49": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "50": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "51": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "52": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "53": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "54": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "55": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "56": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "57": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "58": {
+    "gender": 63,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "59": {
+    "gender": 63,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "60": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "61": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "62": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "63": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "64": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "65": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "66": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "67": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "68": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "69": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "70": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "71": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "72": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "73": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "74": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "75": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "76": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "77": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "78": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "79": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "80": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "81": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "82": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "83": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 5
+  },
+  "84": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "85": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "86": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "87": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "88": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "89": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "90": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "91": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "92": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "93": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "94": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "95": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "96": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "97": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "98": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "99": {
+    "gender": 127,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "100": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "101": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "102": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "103": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "104": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "105": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "106": {
+    "gender": 0,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "107": {
+    "gender": 0,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "108": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "109": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "110": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "111": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "112": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "113": {
+    "gender": 254,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "114": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "115": {
+    "gender": 254,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "116": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "117": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "118": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "119": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "120": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "121": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "122": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "123": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "124": {
+    "gender": 254,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "125": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "126": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "127": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "128": {
+    "gender": 0,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "129": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 14
+  },
+  "130": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 14
+  },
+  "131": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "132": {
+    "gender": 255,
+    "eggGroup1": 13,
+    "eggGroup2": 13
+  },
+  "133": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "134": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "135": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "136": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "137": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "138": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "139": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "140": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "141": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "142": {
+    "gender": 31,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "143": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "144": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "145": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "146": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "147": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "148": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "149": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "150": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "151": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "152": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "153": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "154": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "155": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "156": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "157": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "158": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "159": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "160": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "161": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "162": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "163": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "164": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "165": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "166": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "167": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "168": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "169": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "170": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "171": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "172": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "173": {
+    "gender": 191,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "174": {
+    "gender": 191,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "175": {
+    "gender": 31,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "176": {
+    "gender": 31,
+    "eggGroup1": 4,
+    "eggGroup2": 6
+  },
+  "177": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "178": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "179": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "180": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "181": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "182": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "183": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 6
+  },
+  "184": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 6
+  },
+  "185": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "186": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "187": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "188": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "189": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "190": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "191": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "192": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "193": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "194": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "195": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "196": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "197": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "198": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "199": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "200": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "201": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "202": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "203": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "204": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "205": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "206": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "207": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "208": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "209": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "210": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "211": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "212": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "213": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "214": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "215": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "216": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "217": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "218": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "219": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "220": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "221": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "222": {
+    "gender": 191,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "223": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 12
+  },
+  "224": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 12
+  },
+  "225": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "226": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "227": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "228": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "229": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "230": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "231": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "232": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "233": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "234": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "235": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "236": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "237": {
+    "gender": 0,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "238": {
+    "gender": 254,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "239": {
+    "gender": 63,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "240": {
+    "gender": 63,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "241": {
+    "gender": 254,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "242": {
+    "gender": 254,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "243": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "244": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "245": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "246": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "247": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "248": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "249": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "250": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "251": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "252": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "253": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "254": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "255": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "256": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "257": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "258": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "259": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "260": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 2
+  },
+  "261": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "262": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "263": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "264": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "265": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "266": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "267": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "268": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "269": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "270": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 7
+  },
+  "271": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 7
+  },
+  "272": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 7
+  },
+  "273": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "274": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "275": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "276": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "277": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "278": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 4
+  },
+  "279": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 4
+  },
+  "280": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 8
+  },
+  "281": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 8
+  },
+  "282": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 8
+  },
+  "283": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 3
+  },
+  "284": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 3
+  },
+  "285": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "286": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "287": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "288": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "289": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "290": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "291": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "292": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "293": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "294": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "295": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "296": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "297": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "298": {
+    "gender": 191,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "299": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "300": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "301": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "302": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "303": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "304": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "305": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "306": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "307": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "308": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "309": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "310": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "311": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "312": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "313": {
+    "gender": 0,
+    "eggGroup1": 3,
+    "eggGroup2": 8
+  },
+  "314": {
+    "gender": 254,
+    "eggGroup1": 3,
+    "eggGroup2": 8
+  },
+  "315": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "316": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "317": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "318": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "319": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "320": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 12
+  },
+  "321": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 12
+  },
+  "322": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "323": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "324": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "325": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "326": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "327": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "328": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 14
+  },
+  "329": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 14
+  },
+  "330": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 14
+  },
+  "331": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 8
+  },
+  "332": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 8
+  },
+  "333": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 14
+  },
+  "334": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 14
+  },
+  "335": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "336": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 14
+  },
+  "337": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "338": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "339": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "340": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "341": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "342": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "343": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "344": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "345": {
+    "gender": 31,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "346": {
+    "gender": 31,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "347": {
+    "gender": 31,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "348": {
+    "gender": 31,
+    "eggGroup1": 9,
+    "eggGroup2": 9
+  },
+  "349": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "350": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 14
+  },
+  "351": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 11
+  },
+  "352": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "353": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "354": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "355": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "356": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "357": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "358": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "359": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "360": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "361": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 10
+  },
+  "362": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 10
+  },
+  "363": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "364": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "365": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "366": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "367": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "368": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "369": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 12
+  },
+  "370": {
+    "gender": 191,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "371": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "372": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "373": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "374": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "375": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "376": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "377": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "378": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "379": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "380": {
+    "gender": 254,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "381": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "382": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "383": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "384": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "385": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "386": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "387": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "388": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "389": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "390": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "391": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "392": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "393": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "394": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "395": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "396": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "397": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "398": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "399": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "400": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "401": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "402": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "403": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "404": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "405": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "406": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "407": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "408": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "409": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "410": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "411": {
+    "gender": 31,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "412": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "413": {
+    "gender": 254,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "414": {
+    "gender": 0,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "415": {
+    "gender": 31,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "416": {
+    "gender": 254,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "417": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 6
+  },
+  "418": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "419": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 5
+  },
+  "420": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "421": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 7
+  },
+  "422": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 11
+  },
+  "423": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 11
+  },
+  "424": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "425": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "426": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "427": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "428": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "429": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "430": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "431": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "432": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "433": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "434": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "435": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "436": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "437": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "438": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "439": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "440": {
+    "gender": 254,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "441": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "442": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "443": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "444": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "445": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "446": {
+    "gender": 31,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "447": {
+    "gender": 31,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "448": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "449": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "450": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "451": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 9
+  },
+  "452": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 9
+  },
+  "453": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "454": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "455": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "456": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "457": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "458": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "459": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "460": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 7
+  },
+  "461": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "462": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "463": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 1
+  },
+  "464": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 5
+  },
+  "465": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "466": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "467": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "468": {
+    "gender": 31,
+    "eggGroup1": 4,
+    "eggGroup2": 6
+  },
+  "469": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "470": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "471": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "472": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "473": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "474": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "475": {
+    "gender": 0,
+    "eggGroup1": 11,
+    "eggGroup2": 8
+  },
+  "476": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "477": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "478": {
+    "gender": 254,
+    "eggGroup1": 6,
+    "eggGroup2": 10
+  },
+  "479": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "480": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "481": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "482": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "483": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "484": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "485": {
+    "gender": 127,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "486": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "487": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "488": {
+    "gender": 254,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "489": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "490": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "491": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "492": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "493": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "494": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "495": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "496": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "497": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 7
+  },
+  "498": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "499": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "500": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "501": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "502": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "503": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "504": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "505": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "506": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "507": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "508": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "509": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "510": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "511": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "512": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "513": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "514": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "515": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "516": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "517": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "518": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "519": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "520": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "521": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "522": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "523": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "524": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "525": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "526": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "527": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 4
+  },
+  "528": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 4
+  },
+  "529": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "530": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "531": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 6
+  },
+  "532": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "533": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "534": {
+    "gender": 63,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "535": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "536": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "537": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 2
+  },
+  "538": {
+    "gender": 0,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "539": {
+    "gender": 0,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "540": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "541": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "542": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "543": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "544": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "545": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "546": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 6
+  },
+  "547": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 6
+  },
+  "548": {
+    "gender": 254,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "549": {
+    "gender": 254,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "550": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "551": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "552": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "553": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "554": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "555": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "556": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "557": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 10
+  },
+  "558": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 10
+  },
+  "559": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 14
+  },
+  "560": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 14
+  },
+  "561": {
+    "gender": 127,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "562": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 11
+  },
+  "563": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 11
+  },
+  "564": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "565": {
+    "gender": 31,
+    "eggGroup1": 2,
+    "eggGroup2": 9
+  },
+  "566": {
+    "gender": 31,
+    "eggGroup1": 4,
+    "eggGroup2": 9
+  },
+  "567": {
+    "gender": 31,
+    "eggGroup1": 4,
+    "eggGroup2": 9
+  },
+  "568": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "569": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "570": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "571": {
+    "gender": 31,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "572": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "573": {
+    "gender": 191,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "574": {
+    "gender": 191,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "575": {
+    "gender": 191,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "576": {
+    "gender": 191,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "577": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "578": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "579": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "580": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 4
+  },
+  "581": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 4
+  },
+  "582": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "583": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "584": {
+    "gender": 127,
+    "eggGroup1": 10,
+    "eggGroup2": 10
+  },
+  "585": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "586": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "587": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "588": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "589": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "590": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "591": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 7
+  },
+  "592": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "593": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "594": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 12
+  },
+  "595": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "596": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "597": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 10
+  },
+  "598": {
+    "gender": 127,
+    "eggGroup1": 7,
+    "eggGroup2": 10
+  },
+  "599": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "600": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "601": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "602": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "603": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "604": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "605": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "606": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "607": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "608": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "609": {
+    "gender": 127,
+    "eggGroup1": 11,
+    "eggGroup2": 11
+  },
+  "610": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "611": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "612": {
+    "gender": 127,
+    "eggGroup1": 1,
+    "eggGroup2": 14
+  },
+  "613": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "614": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "615": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "616": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "617": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "618": {
+    "gender": 127,
+    "eggGroup1": 2,
+    "eggGroup2": 11
+  },
+  "619": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "620": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 8
+  },
+  "621": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 1
+  },
+  "622": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "623": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "624": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "625": {
+    "gender": 127,
+    "eggGroup1": 8,
+    "eggGroup2": 8
+  },
+  "626": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "627": {
+    "gender": 0,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "628": {
+    "gender": 0,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "629": {
+    "gender": 254,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "630": {
+    "gender": 254,
+    "eggGroup1": 4,
+    "eggGroup2": 4
+  },
+  "631": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "632": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "633": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "634": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "635": {
+    "gender": 127,
+    "eggGroup1": 14,
+    "eggGroup2": 14
+  },
+  "636": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "637": {
+    "gender": 127,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "638": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "639": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "640": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "641": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "642": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "643": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "644": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "645": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "646": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "647": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "648": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "649": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "650": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "651": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "652": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "653": {
+    "gender": 254,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "654": {
+    "gender": 254,
+    "eggGroup1": 3,
+    "eggGroup2": 3
+  },
+  "655": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "656": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "657": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "658": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "659": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "660": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "661": {
+    "gender": 255,
+    "eggGroup1": 16,
+    "eggGroup2": 16
+  },
+  "662": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 11
+  },
+  "663": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 11
+  },
+  "664": {
+    "gender": 127,
+    "eggGroup1": 6,
+    "eggGroup2": 11
+  },
+  "665": {
+    "gender": 127,
+    "eggGroup1": 12,
+    "eggGroup2": 12
+  },
+  "666": {
+    "gender": 127,
+    "eggGroup1": 5,
+    "eggGroup2": 5
+  },
+  "667": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1000": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1001": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1002": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1003": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1004": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1005": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1006": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1007": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1008": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1009": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1010": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1011": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1012": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1013": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1014": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1015": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1016": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1017": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1018": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1019": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1020": {
+    "gender": 254,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1021": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1022": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1023": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1024": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1025": {
+    "gender": 0,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1026": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1027": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1028": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1029": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1030": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1031": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1032": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1033": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1034": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1035": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1036": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1037": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1038": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1039": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1040": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1041": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1042": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1043": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1044": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1045": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1046": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1047": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1048": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1049": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1050": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  },
+  "1051": {
+    "gender": 255,
+    "eggGroup1": 15,
+    "eggGroup2": 15
+  }
+}
