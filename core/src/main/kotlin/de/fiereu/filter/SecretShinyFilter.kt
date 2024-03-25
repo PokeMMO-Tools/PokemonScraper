@@ -15,25 +15,31 @@ class SecretShinyFilter: IPokemonFilter {
     val final = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     val newEntries = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
 
-    final.add(Pair(hashMapOf<String, Any>("secretShiny" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.SECRET) }))
+    final.add(Pair(hashMapOf("secretShiny" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.SECRET) }))
 
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = true
+    final.parallelStream().forEach { pair ->
+      val maleMap = pair.first.toMutableMap()
+      maleMap["male"] = true
       newEntries.add(
         Pair(
-          newMap,
+          maleMap,
           pair.second.fastFilter { PokemonDataManager.isMale(it.pokemon) }
         )
       )
-    }
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = false
+      val femaleMap = pair.first.toMutableMap()
+      femaleMap["female"] = true
       newEntries.add(
         Pair(
-          newMap,
+          femaleMap,
           pair.second.fastFilter { PokemonDataManager.isFemale(it.pokemon) }
+        )
+      )
+      val genderlessMap = pair.first.toMutableMap()
+      genderlessMap["genderless"] = true
+      newEntries.add(
+        Pair(
+          genderlessMap,
+          pair.second.fastFilter { PokemonDataManager.isGenderless(it.pokemon) }
         )
       )
     }

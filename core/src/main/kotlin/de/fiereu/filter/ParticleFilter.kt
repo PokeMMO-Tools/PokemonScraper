@@ -16,10 +16,11 @@ class ParticleFilter : IPokemonFilter {
     val final = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     val newEntries = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     
-    final.add(Pair(hashMapOf<String, Any>("male" to true), cache.fastFilter { PokemonDataManager.isMale(it.pokemon) }))
-    final.add(Pair(hashMapOf<String, Any>("male" to false), cache.fastFilter { PokemonDataManager.isFemale(it.pokemon) }))
-    
-    for (eggGroup in EggGroup.onlyEggGroups()) {
+    final.add(Pair(hashMapOf("male" to true), cache.fastFilter { PokemonDataManager.isMale(it.pokemon) }))
+    final.add(Pair(hashMapOf("female" to true), cache.fastFilter { PokemonDataManager.isFemale(it.pokemon) }))
+    final.add(Pair(hashMapOf("genderless" to true), cache.fastFilter { PokemonDataManager.isGenderless(it.pokemon) }))
+
+    EggGroup.onlyEggGroups().toList().parallelStream().forEach { eggGroup ->
       val eggGroupPokemon = PokemonDataManager.getPokemonsByEggGroup(eggGroup)
       for (pair in final) {
         val newMap = pair.first.toMutableMap()
@@ -36,8 +37,8 @@ class ParticleFilter : IPokemonFilter {
     final.addAll(newEntries)
     newEntries.clear()
 
-    for (particle in PokemonEffect.selectableEffects()) {
-      val particlePokemon = cache.fastFilter {it.pokemon.selectedEffect == particle }
+    PokemonEffect.selectableEffects().toList().parallelStream().forEach { particle ->
+      val particlePokemon = cache.fastFilter { it.pokemon.selectedEffect == particle }
       for (pair in final) {
         val newMap = pair.first.toMutableMap()
         newMap["particle"] = particle.id

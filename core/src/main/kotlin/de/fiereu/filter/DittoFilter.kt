@@ -18,7 +18,7 @@ class DittoFilter(
 
         final.add(Pair(hashMapOf(), cache.fastFilter { it.pokemon.id == 132.toShort() }))
 
-        for (nature in Nature.entries) {
+        Nature.entries.parallelStream().forEach { nature ->
             val naturePokemon = cache.fastFilter { it.pokemon.nature == nature }
             for (pair in final) {
                 val newMap = pair.first.toMutableMap()
@@ -31,11 +31,12 @@ class DittoFilter(
                 )
             }
         }
+
         final.clear()
         final.addAll(newEntries)
         newEntries.clear()
 
-        for (statCombination in FilterUtil.getAllStatCombinations(maxStats)) {
+        FilterUtil.getAllStatCombinations(maxStats).toList().parallelStream().forEach { statCombination ->
             val statPokemon = cache.fastFilter {
                 var matches = true
                 for (stat in statCombination) {
@@ -54,6 +55,7 @@ class DittoFilter(
                 )
             }
         }
+
         final.clear()
         final.addAll(newEntries)
 

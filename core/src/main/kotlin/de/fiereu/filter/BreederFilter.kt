@@ -17,10 +17,11 @@ class BreederFilter(
     val final = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     val newEntries = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
 
-    final.add(Pair(hashMapOf<String, Any>("male" to true), cache.fastFilter { PokemonDataManager.isMale(it.pokemon) }))
-    final.add(Pair(hashMapOf<String, Any>("male" to false), cache.fastFilter { PokemonDataManager.isFemale(it.pokemon) }))
+    final.add(Pair(hashMapOf("male" to true), cache.fastFilter { PokemonDataManager.isMale(it.pokemon) }))
+    final.add(Pair(hashMapOf("female" to true), cache.fastFilter { PokemonDataManager.isFemale(it.pokemon) }))
+    final.add(Pair(hashMapOf("genderless" to true), cache.fastFilter { PokemonDataManager.isGenderless(it.pokemon) }))
 
-    for (eggGroup in EggGroup.onlyEggGroups()) {
+    EggGroup.onlyEggGroups().toList().parallelStream().forEach { eggGroup ->
       val eggGroupPokemon = PokemonDataManager.getPokemonsByEggGroup(eggGroup)
       for (pair in final) {
         val newMap = pair.first.toMutableMap()
@@ -37,8 +38,7 @@ class BreederFilter(
     final.addAll(newEntries)
     newEntries.clear()
 
-
-    for (statCombination in FilterUtil.getAllStatCombinations(maxStats)) {
+    FilterUtil.getAllStatCombinations(maxStats).toList().parallelStream().forEach { statCombination ->
       val statPokemon = cache.fastFilter {
         var matches = true
         for (stat in statCombination) {
@@ -61,7 +61,7 @@ class BreederFilter(
     final.addAll(newEntries)
     newEntries.clear()
 
-    for (nature in Nature.values()) {
+    Nature.entries.parallelStream().forEach { nature ->
       val naturePokemon = cache.fastFilter { it.pokemon.nature == nature }
       for (pair in final) {
         val newMap = pair.first.toMutableMap()

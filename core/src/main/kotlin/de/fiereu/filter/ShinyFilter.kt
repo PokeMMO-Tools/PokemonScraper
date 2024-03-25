@@ -15,25 +15,31 @@ class ShinyFilter: IPokemonFilter {
     val final = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     val newEntries = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
 
-    final.add(Pair(hashMapOf<String, Any>("shiny" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.SHINY) }))
+    final.add(Pair(hashMapOf("shiny" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.SHINY) }))
 
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = true
+    final.parallelStream().forEach { pair ->
+      val maleMap = pair.first.toMutableMap()
+      maleMap["male"] = true
       newEntries.add(
         Pair(
-          newMap,
+          maleMap,
           pair.second.fastFilter { PokemonDataManager.isMale(it.pokemon) }
         )
       )
-    }
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = false
+      val femaleMap = pair.first.toMutableMap()
+      femaleMap["female"] = true
       newEntries.add(
         Pair(
-          newMap,
+          femaleMap,
           pair.second.fastFilter { PokemonDataManager.isFemale(it.pokemon) }
+        )
+      )
+      val genderlessMap = pair.first.toMutableMap()
+      genderlessMap["genderless"] = true
+      newEntries.add(
+        Pair(
+          genderlessMap,
+          pair.second.fastFilter { PokemonDataManager.isGenderless(it.pokemon) }
         )
       )
     }
@@ -41,7 +47,7 @@ class ShinyFilter: IPokemonFilter {
     final.addAll(newEntries)
     newEntries.clear()
 
-    for (statCombination in FilterUtil.getAllStatCombinations(3)) {
+    FilterUtil.getAllStatCombinations(3).toList().parallelStream().forEach { statCombination ->
       val statPokemon = cache.fastFilter {
         var matches = true
         for (stat in statCombination) {
@@ -64,7 +70,7 @@ class ShinyFilter: IPokemonFilter {
     final.addAll(newEntries)
     newEntries.clear()
 
-    for (nature in Nature.values()) {
+    Nature.entries.parallelStream().forEach {nature ->
       val naturePokemon = cache.fastFilter { it.pokemon.nature == nature }
       for (pair in final) {
         val newMap = pair.first.toMutableMap()

@@ -3,7 +3,6 @@ package de.fiereu.filter
 import de.fiereu.CacheEntry
 import de.fiereu.FastFilterArrayList
 import de.fiereu.PokemonDataManager
-import de.fiereu.pokemmo.headless.game.Nature
 import de.fiereu.pokemmo.headless.game.Rarity
 
 class AlphaFilter: IPokemonFilter {
@@ -15,25 +14,31 @@ class AlphaFilter: IPokemonFilter {
     val final = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
     val newEntries = FastFilterArrayList<Pair<MutableMap<String, Any>, FastFilterArrayList<CacheEntry>>>()
 
-    final.add(Pair(hashMapOf<String, Any>("alpha" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.ALPHA) }))
+    final.add(Pair(hashMapOf("alpha" to true), cache.fastFilter { it.pokemon.getRarity(Rarity.ALPHA) }))
 
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = true
+    final.parallelStream().forEach { pair ->
+      val maleMap = pair.first.toMutableMap()
+      maleMap["male"] = true
       newEntries.add(
         Pair(
-          newMap,
+          maleMap,
           pair.second.fastFilter { PokemonDataManager.isMale(it.pokemon) }
         )
       )
-    }
-    for (pair in final) {
-      val newMap = pair.first.toMutableMap()
-      newMap["male"] = false
+      val femaleMap = pair.first.toMutableMap()
+      femaleMap["female"] = true
       newEntries.add(
         Pair(
-          newMap,
+          femaleMap,
           pair.second.fastFilter { PokemonDataManager.isFemale(it.pokemon) }
+        )
+      )
+      val genderlessMap = pair.first.toMutableMap()
+      genderlessMap["genderless"] = true
+      newEntries.add(
+        Pair(
+          genderlessMap,
+          pair.second.fastFilter { PokemonDataManager.isGenderless(it.pokemon) }
         )
       )
     }
@@ -41,7 +46,7 @@ class AlphaFilter: IPokemonFilter {
     final.addAll(newEntries)
     newEntries.clear()
 
-    for (statCombination in FilterUtil.getAllStatCombinations(3)) {
+    FilterUtil.getAllStatCombinations(3).toList().parallelStream().forEach { statCombination ->
       val statPokemon = cache.fastFilter {
         var matches = true
         for (stat in statCombination) {
