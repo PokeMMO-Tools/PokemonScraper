@@ -24,5 +24,6 @@ data class PokemonScraperConfig(
     val database: DatabaseConfig,
     val delay: Long,
     val jitter: Long,
+    val maxPages: Int,
     val webhook: String,
 )

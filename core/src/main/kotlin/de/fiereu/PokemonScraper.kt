@@ -31,12 +31,12 @@ class PokemonScraper(
         return@forEachIndexed
       }
       logger.info(
-        "${page.pageID}.${index} ${entry.itemID} - ${entry.price} - ${entry.pokemon!!.id}")
+        "${page.pageID}.${index} - ${entry.price} - ${entry.pokemon!!.id}")
       PokemonCache.addEntry(CacheEntry(entry.price, entry.pokemon!!))
     }
     
-    // Did we reach the final page? if not, send another request
-    if (page.entries.size == 10) {
+    // The pokemon section gets more entries than we can process to we only take the first x entries
+    if (this.page.get() < config.maxPages) {
       Thread.sleep(config.delay + (Math.random() * config.jitter).toLong())
       sendRequest()
       return
